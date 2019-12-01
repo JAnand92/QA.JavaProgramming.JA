@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="802b470d-ed61-4457-8718-49d1395c0346" name="Default Changelist" comment="" />
+    <list default="true" id="802b470d-ed61-4457-8718-49d1395c0346" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Programming/PrimitiveType.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Programming/PrimitiveType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrimitiveType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimitiveType.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Java_Programming" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -15,12 +24,17 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1UBQh5K1SWScbDoUJo791d2lQds" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="ignore.virus.scanning.warn.message" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
@@ -36,23 +50,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PrimitiveType">
-    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hello" />
-      <module name="Java_Programming" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PrimitiveType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrimitiveType" />
-      <module name="Java_Programming" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Variables" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Variables" />
+  <component name="RunManager">
+    <configuration name="StringDataType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringDataType" />
       <module name="Java_Programming" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -60,8 +60,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PrimitiveType" />
-        <item itemvalue="Application.Hello" />
+        <item itemvalue="Application.StringDataType" />
       </list>
     </recent_temporary>
   </component>
@@ -76,10 +75,28 @@
       <option name="presentableId" value="Default" />
       <updated>1574827624765</updated>
       <workItem from="1574827626339" duration="4597000" />
+      <workItem from="1574832390875" duration="153000" />
+      <workItem from="1574888340866" duration="4156000" />
+      <workItem from="1574892519837" duration="38000" />
+      <workItem from="1574892668341" duration="136000" />
+      <workItem from="1574892976747" duration="1828000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
