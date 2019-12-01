@@ -13,6 +13,11 @@ public class StringDataType {
 
         /*Strings are immutable i.e. you can't change the value of string once it's created.
         * Java automatically create a new string with the value of old string and some new string.
-        * And, java delete the old string variable from memory.*/
+        * And, java delete the old string variable from memory.
+        * String is class not a data type in class.*/
+
+
+
+
     }
 }

@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="802b470d-ed61-4457-8718-49d1395c0346" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Programming/PrimitiveType.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Programming/PrimitiveType.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrimitiveType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimitiveType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Programming/StringDataType.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Programming/StringDataType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringDataType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringDataType.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +48,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.OperatorsAndOperands">
+    <configuration name="OperatorsAndOperands" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OperatorsAndOperands" />
+      <module name="Java_Programming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StringDataType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StringDataType" />
       <module name="Java_Programming" />
@@ -60,6 +65,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OperatorsAndOperands" />
         <item itemvalue="Application.StringDataType" />
       </list>
     </recent_temporary>
@@ -80,6 +86,8 @@
       <workItem from="1574892519837" duration="38000" />
       <workItem from="1574892668341" duration="136000" />
       <workItem from="1574892976747" duration="1828000" />
+      <workItem from="1575168024709" duration="10000" />
+      <workItem from="1575168089878" duration="5210000" />
     </task>
     <servers />
   </component>
