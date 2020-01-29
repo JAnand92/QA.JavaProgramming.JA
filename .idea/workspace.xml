@@ -2,35 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d63778b-00d4-4c81-8241-abc619cda300" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_Programming.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Programming/BarkingDog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Programming/DecimalComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Programming/EqualSumChecker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Programming/Hello.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Programming/KeywordsAndExpression.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Programming/LeapYearCalculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Programming/META-INF/Java_Programming.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Programming/MegaBytesConverter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Programming/MethodExercise.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Programming/MethodOverloadingExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Programming/OperatorsAndOperands.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Programming/PrimitiveType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Programming/SpeedConverterChallenge.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Programming/StatementsWithSpaceAndIndenting.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Programming/StringDataType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Programming/TeenNumberChecker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Programming/Variables.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -49,6 +33,28 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.SecondsAndMinutes">
+    <configuration name="MethodOverloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MethodOverloading" />
+      <module name="QA.JavaProgramming.JA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecondsAndMinutes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SecondsAndMinutes" />
+      <module name="QA.JavaProgramming.JA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SecondsAndMinutes" />
+        <item itemvalue="Application.MethodOverloading" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -75,7 +81,8 @@
       <workItem from="1579021036223" duration="61000" />
       <workItem from="1580282171646" duration="9000" />
       <workItem from="1580282217979" duration="57000" />
-      <workItem from="1580282277864" duration="347000" />
+      <workItem from="1580282277864" duration="540000" />
+      <workItem from="1580308743911" duration="7988000" />
     </task>
     <servers />
   </component>
@@ -91,9 +98,29 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="316" y="49" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1580282621546" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1580316669858">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1580316669858" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1580316669858">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1580316669858" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1580316669858">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1580316669858" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1580316669858">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1580316669858" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1580282625396">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1580282625396" />
+    <state x="337" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1580308743724">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1580308743724" />
   </component>
 </project>
