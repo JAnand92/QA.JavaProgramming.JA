@@ -1,135 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="802b470d-ed61-4457-8718-49d1395c0346" name="Default Changelist" comment="">
+    <list default="true" id="4d63778b-00d4-4c81-8241-abc619cda300" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Programming/OperatorsAndOperands.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Programming/OperatorsAndOperands.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_Programming.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Programming/BarkingDog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Programming/DecimalComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Programming/EqualSumChecker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Programming/Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Programming/KeywordsAndExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Programming/LeapYearCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Programming/META-INF/Java_Programming.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Programming/MegaBytesConverter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Programming/MethodExercise.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Programming/MethodOverloadingExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Programming/OperatorsAndOperands.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Programming/PrimitiveType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Programming/SpeedConverterChallenge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Programming/StatementsWithSpaceAndIndenting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Programming/StringDataType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Programming/TeenNumberChecker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Programming/Variables.class" beforeDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FavoritesManager">
-    <favorites_list name="Java_Programming" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1UBQh5K1SWScbDoUJo791d2lQds" />
+  <component name="ProjectId" id="1X3kT1OuEUKU4TEPfi7TickPMd4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="ignore.virus.scanning.warn.message" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="ServiceViewManager">
+    <option name="viewStates">
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
       </list>
     </option>
-  </component>
-  <component name="RunManager" selected="Application.MethodOverloadingExample">
-    <configuration name="DecimalComparator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DecimalComparator" />
-      <module name="Java_Programming" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EqualSumChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EqualSumChecker" />
-      <module name="Java_Programming" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LeapYearCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeapYearCalculator" />
-      <module name="Java_Programming" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MethodOverloadingExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MethodOverloadingExample" />
-      <module name="Java_Programming" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TeenNumberChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TeenNumberChecker" />
-      <module name="Java_Programming" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.MethodOverloadingExample" />
-        <item itemvalue="Application.TeenNumberChecker" />
-        <item itemvalue="Application.EqualSumChecker" />
-        <item itemvalue="Application.DecimalComparator" />
-        <item itemvalue="Application.LeapYearCalculator" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="802b470d-ed61-4457-8718-49d1395c0346" name="Default Changelist" comment="" />
-      <created>1574827624765</created>
+      <changelist id="4d63778b-00d4-4c81-8241-abc619cda300" name="Default Changelist" comment="" />
+      <created>1579021034125</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1574827624765</updated>
-      <workItem from="1574827626339" duration="4597000" />
-      <workItem from="1574832390875" duration="153000" />
-      <workItem from="1574888340866" duration="4156000" />
-      <workItem from="1574892519837" duration="38000" />
-      <workItem from="1574892668341" duration="136000" />
-      <workItem from="1574892976747" duration="1828000" />
-      <workItem from="1575168024709" duration="10000" />
-      <workItem from="1575168089878" duration="5210000" />
-      <workItem from="1576083239774" duration="6832000" />
-      <workItem from="1576177217788" duration="14402000" />
+      <updated>1579021034125</updated>
+      <workItem from="1579021036223" duration="61000" />
+      <workItem from="1580282171646" duration="9000" />
+      <workItem from="1580282217979" duration="57000" />
+      <workItem from="1580282277864" duration="347000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Project_Structure" timestamp="1580282524412">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1580282524412" />
+    <state x="316" y="49" key="FileChooserDialogImpl" timestamp="1580282621546">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="316" y="49" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1580282621546" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1580282625396">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1580282625396" />
   </component>
 </project>
